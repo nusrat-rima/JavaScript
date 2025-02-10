@@ -6,7 +6,7 @@ var weight = 31;
 // var price = 12;
 var year = 2003;
 var money = 10000;
-var age = 12;
+var age; //undefined
 const price = 13;
 // console.log(year);
 // console.log(price);

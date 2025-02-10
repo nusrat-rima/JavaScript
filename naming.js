@@ -22,6 +22,6 @@ var var =50;
  //6. How to write a long variable name 
 
  var my current home address ="Rajshahi Dinajpur"
- var myCurrent home address ="Rajshahi Dinajpur"
+ var myCurrentHomeAddress ="Rajshahi Dinajpur"//camel case
  var my_current_ home_address ="Rajshahi Dinajpur"// snake case
- var my current home address ="Rajshahi Dinajpur"
+ var MyCurrentHomeaAddress ="Rajshahi Dinajpur"//pascal case

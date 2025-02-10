@@ -17,5 +17,5 @@ console.log(ages);
 
 
 ages.shift();//it removes the first element
-ages.unshift(313);//it insert an element at first.
+ages.unshift(313);//it insert an element  first
 console.log(ages);
